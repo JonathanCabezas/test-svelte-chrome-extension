@@ -1,0 +1,2 @@
+- HMR on index.ts not working in popup
+-
